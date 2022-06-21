@@ -18,5 +18,6 @@ bool solution(string s) {
     else {
         answer = false;
     }
+
     return answer;
 }
