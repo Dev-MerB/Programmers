@@ -8,9 +8,7 @@ public class Solution
         bool answer = true;
 
         if ((s.Length != 4) && (s.Length != 6))
-        {
             answer = false;
-        }
         else
         {
             foreach (char c in s)
