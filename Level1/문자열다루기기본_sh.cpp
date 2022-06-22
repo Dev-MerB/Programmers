@@ -11,13 +11,9 @@ bool solution(string s) {
         for (char const& c : s) {
             if (48 > c || c > 57) {
                 answer = false;
-                break;
+                return answer;
             }
         }
     }
-    else {
-        answer = false;
-    }
-
     return answer;
 }
