@@ -11,4 +11,4 @@ Programmers
 |Lv.1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [C++_hi](./Level1/신고결과받기_hi.cpp)|2022 KAKAO BLIND RECRUITMENT|
 |Lv.1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [C++_hi](./Level1/로또의최고순위와최저순위_hi.cpp)|2021 Dev-Matching|
 |Lv.1|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [C++_sh](./Level1/수박수박수박수_sh.cpp)|연습문제|
-|Lv.1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [C++_hi](./Level1/신규아이디추천_hi.cpp)|연습문제|
+|Lv.1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [C++_hi](./Level1/신규아이디추천_hi.cpp)|2021 KAKAO BLIND RECRUITMENT|
