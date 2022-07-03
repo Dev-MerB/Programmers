@@ -15,4 +15,5 @@ Programmers
 |Lv.1|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [C++_hi](./Level1/숫자문자열과영단어_hi.cpp), [C++_sh](./Level1/숫자문자열과영단어_sh.cpp)|2021 카카오 채용연계형 인턴십|
 |Lv.1|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [C++_hi](./Level1/키패드누르기_hi.cpp)|2020 카카오 인턴십|
 |Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp)|연습문제|
+|Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp)|월간 코드 챌린지 시즌3|
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
