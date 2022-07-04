@@ -17,3 +17,4 @@ Programmers
 |Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp)|연습문제|
 |Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp)|월간 코드 챌린지 시즌3|
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
+|Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
