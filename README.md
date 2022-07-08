@@ -24,7 +24,7 @@ Programmers
 |Lv.1|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [C++_sh](./Level1/하샤드수_sh.cpp)|연습문제|
 |Lv.1|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [C++_sh](./Level1/콜라츠추측_sh.cpp)|연습문제|
 |Lv.1|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [C++_sh](./Level1/평균구하기_sh.cpp)|연습문제|
-|Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](최대공약수와최소공배수_sh.cpp/Level1/_sh.cpp)|연습문제|
+|Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
 |Lv.2|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [C#_mj](./Level2/주식가격_mj.cs)|스택/큐|
