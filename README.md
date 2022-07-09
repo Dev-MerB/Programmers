@@ -3,6 +3,10 @@ Programmers
 
 ### Programmers Algorithm
 
+<details>
+<summary>Programmers Algorithm</summary>
+<div markdown="1">       
+
 | Level | Title | Solution | Problem |
 |---| ----- | -------- | ---------- |
 |Lv.1|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [C_jh](./Level1/문자열다루기기본_jh.c), [C++_hi](./Level1/문자열다루기기본_hi.cpp),[C++_sh](./Level1/문자열다루기기본_sh.cpp), [C#_mj](./Level1/문자열다루기기본_mj.cs)|연습문제|
@@ -30,3 +34,15 @@ Programmers
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
 |Lv.2|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [C#_mj](./Level2/주식가격_mj.cs)|스택/큐|
+
+</div>
+</details>
+
+
+
+| 송명지 |
+|--- |
+|Lv.1|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs)|
+|Lv.2|
+|[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
