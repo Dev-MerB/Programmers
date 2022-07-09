@@ -4,8 +4,8 @@ Programmers
 ### Programmers Algorithm
 
 <details>
-<summary>Programmers Algorithm</summary>
-<div markdown="1">       
+<summary>LEVEL 1</summary>
+<div markdown="1">
 
 | Level | Title | Solution | Problem |
 |---| ----- | -------- | ---------- |
@@ -31,13 +31,22 @@ Programmers
 |Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
 |Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|크레인 인형뽑기 게임|
 |Lv.1|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [C++_sh](./Level1/제일작은수제거하기_sh.cpp)|연습문제|
+</div>
+</details>
+
+
+<details>
+<summary>LEVEL 2</summary>
+<div markdown="1">
+
+| Level | Title | Solution | Problem |
+|---| ----- | -------- | ---------- |
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
 |Lv.2|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [C#_mj](./Level2/주식가격_mj.cs)|스택/큐|
 
 </div>
 </details>
-
 
 
 | 송명지 |
