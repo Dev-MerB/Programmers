@@ -34,7 +34,8 @@ Programmers
 |Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp)|월간 코드 챌린지 시즌2|
 |Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [C++_hi](./Level1/내적_hi.cpp)|월간 코드 챌린지 시즌1|
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp)|해시|
-|Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
+|Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C#_mj](./Level1/두개뽑아서더하기_mj.cs)|연습문제|
+|Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
 
 </div>
 </details>
@@ -73,7 +74,7 @@ Programmers
 | 송명지 |
 |--- |
 |Lv.1 (3/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs)|, [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs)|
 |Lv.2|
 |[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
 
