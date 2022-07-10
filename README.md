@@ -31,6 +31,9 @@ Programmers
 |Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
 |Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|크레인 인형뽑기 게임|
 |Lv.1|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [C++_sh](./Level1/제일작은수제거하기_sh.cpp)|연습문제|
+|Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp)|월간 코드 챌린지 시즌2|
+|Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128?) | [C++_hi](./Level1/내적_hi.cpp)|월간 코드 챌린지 시즌1|
+
 </div>
 </details>
 
@@ -53,21 +56,21 @@ Programmers
 
 | 김수현 |
 |--- |
-|Lv.1|
+|Lv.1 (17/65)|
 |[문자열 다루기 기본](./Level1/문자열다루기기본_sh.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_sh.cpp), [수박수박수박수박수박수?](./Level1/수박수박수박수박수박수?_sh.cpp), [신규 아이디 추천](./Level1/신규아이디추천_sh.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_sh.cpp), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_sh.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_sh.cpp), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_sh.cpp), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [직사각형 별찍기](./Level1/직사각형별찍기_sh.cpp), [2016년](./Level1/2016년_sh.cpp), [짝수와 홀수](./Level1/짝수와홀수_sh.cpp), [하샤드 수](./Level1/하샤드수_sh.cpp), [콜라츠 추측](./Level1/콜라츠추측_sh.cpp), [평균 구하기](./Level1/평균구하기_sh.cpp), [최대공약수와 최소공배수](./Level1/최대공약수와최소공배수_sh.cpp), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_sh.cpp)|
 
 <br><br>
 
 | 박주혁 |
 |--- |
-|Lv.1|
+|Lv.1 (5/65)|
 |[문자열 다루기 기본](./Level1/문자열다루기기본_jh.cpp), [소수만들기](./Level1/소수만들기_jh.c), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_jh.c), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_jh.c), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_jh.py), |
 
 <br><br>
 
 | 송명지 |
 |--- |
-|Lv.1|
+|Lv.1 (3/65)|
 |[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs)|
 |Lv.2|
 |[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
@@ -76,5 +79,5 @@ Programmers
 
 | 안하일 |
 |--- |
-|Lv.1|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp)|
+|Lv.1 (11/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp). [음양 더하기](./Level1/음양더하기_hi.cpp), [내적](./Level1/내적_hi.cpp)|
