@@ -18,8 +18,8 @@ Programmers
 |Lv.1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [C++_hi](./Level1/신규아이디추천_hi.cpp), [C++_sh](./Level1/신규아이디추천_sh.cpp)|2021 KAKAO BLIND RECRUITMENT|
 |Lv.1|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [C_jh](./Level1/숫자문자열과영단어_jh.c), [C++_hi](./Level1/숫자문자열과영단어_hi.cpp), [C++_sh](./Level1/숫자문자열과영단어_sh.cpp)|2021 카카오 채용연계형 인턴십|
 |Lv.1|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [C++_hi](./Level1/키패드누르기_hi.cpp)|2020 카카오 인턴십|
-|Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp), [py_jh](./Level1/서울에서김서방찾기_jh.py)|연습문제|
-|Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp), [C++_sh](./Level1/없는숫자더하기_sh.cpp)|월간 코드 챌린지 시즌3|
+|Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp), [Py_jh](./Level1/서울에서김서방찾기_jh.py)|연습문제|
+|Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp), [C++_sh](./Level1/없는숫자더하기_sh.cpp), [Py_jh](./Level1/없는숫자더하기_jh.py)|월간 코드 챌린지 시즌3|
 |Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp)|연습문제|
 |Lv.1|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [C++_sh](./Level1/x만큼간격이있는n개의숫자_sh.cpp)|연습문제|
 |Lv.1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [C++_sh](./Level1/직사각형별찍기_sh.cpp)|연습문제|
@@ -68,8 +68,8 @@ Programmers
 
 | 박주혁 |
 |--- |
-|Lv.1 (5/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_jh.cpp), [소수만들기](./Level1/소수만들기_jh.c), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_jh.c), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_jh.c), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_jh.py), |
+|Lv.1 (6/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_jh.cpp), [소수만들기](./Level1/소수만들기_jh.c), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_jh.c), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_jh.c), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_jh.py), [없는 숫자 더하기](./Level1/없는숫자더하기_jh.py)|
 
 <br>
 
