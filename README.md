@@ -13,7 +13,7 @@ Programmers
 |Lv.1|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [C++_hi](./Level1/행렬의덧셈_hi.cpp),[C++_sh](./Level1/행렬의덧셈_sh.cpp)|연습문제|
 |Lv.1|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [C_jh](./Level1/소수만들기_jh.c), [C++_hi](./Level1/소수만들기_hi.cpp), [C#_mj](./Level1/소수만들기_mj.cs)|Summer/Winter Codeing(~2018)|
 |Lv.1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [C++_hi](./Level1/신고결과받기_hi.cpp), [C#_mj](./Level1/신고결과받기_mj.cs)|2022 KAKAO BLIND RECRUITMENT|
-|Lv.1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [C_jh](./Level1/로또의최고순위와최저순위_jh.c), [C++_hi](./Level1/로또의최고순위와최저순위_hi.cpp)|2021 Dev-Matching|
+|Lv.1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [C_jh](./Level1/로또의최고순위와최저순위_jh.c), [C++_hi](./Level1/로또의최고순위와최저순위_hi.cpp), [C#_mj](./Level1/로또의최고순위와최저순위_mj.cs)|2021 Dev-Matching|
 |Lv.1|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [C++_sh](./Level1/수박수박수박수_sh.cpp)|연습문제|
 |Lv.1|[신규 아이디 추천](https://programmers.co.kr/learn/courses/30/lessons/72410) | [C++_hi](./Level1/신규아이디추천_hi.cpp), [C++_sh](./Level1/신규아이디추천_sh.cpp)|2021 KAKAO BLIND RECRUITMENT|
 |Lv.1|[숫자 문자열과 영단어](https://programmers.co.kr/learn/courses/30/lessons/81301) | [C_jh](./Level1/숫자문자열과영단어_jh.c), [C++_hi](./Level1/숫자문자열과영단어_hi.cpp), [C++_sh](./Level1/숫자문자열과영단어_sh.cpp)|2021 카카오 채용연계형 인턴십|
@@ -73,8 +73,8 @@ Programmers
 
 | 송명지 |
 |--- |
-|Lv.1 (4/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs)|
+|Lv.1 (5/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs)|
 |Lv.2|
 |[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
 
