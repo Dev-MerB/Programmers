@@ -20,9 +20,9 @@ Programmers
 |Lv.1|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [C++_hi](./Level1/키패드누르기_hi.cpp)|2020 카카오 인턴십|
 |Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp), [Py_jh](./Level1/서울에서김서방찾기_jh.py)|연습문제|
 |Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp), [C++_sh](./Level1/없는숫자더하기_sh.cpp), [Py_jh](./Level1/없는숫자더하기_jh.py), [C#_mj](./Level1/없는숫자더하기_mj.cs)|월간 코드 챌린지 시즌3|
-|Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp)|연습문제|
-|Lv.1|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [C++_sh](./Level1/x만큼간격이있는n개의숫자_sh.cpp)|연습문제|
-|Lv.1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [C++_sh](./Level1/직사각형별찍기_sh.cpp)|연습문제|
+|Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp), [Py_jh](./Level1/핸드폰번호가리기_jh.py)|연습문제|
+|Lv.1|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [C++_sh](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [Py_jh](./Level1/x만큼간격이있는n개의숫자_jh.py)|연습문제|
+|Lv.1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [C++_sh](./Level1/직사각형별찍기_sh.cpp), [Py_jh](./Level1/직사각형별찍기_jh.py)|연습문제|
 |Lv.1|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [C++_sh](./Level1/2016년_sh.cpp)|연습문제|
 |Lv.1|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | [C++_sh](./Level1/짝수와홀수_sh.cpp)|연습문제|
 |Lv.1|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [C++_sh](./Level1/하샤드수_sh.cpp)|연습문제|
