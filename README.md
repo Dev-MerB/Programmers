@@ -11,7 +11,7 @@ Programmers
 |---| ----- | -------- | ---------- |
 |Lv.1|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918) | [C_jh](./Level1/문자열다루기기본_jh.c), [C++_hi](./Level1/문자열다루기기본_hi.cpp),[C++_sh](./Level1/문자열다루기기본_sh.cpp), [C#_mj](./Level1/문자열다루기기본_mj.cs), [java_dk](/Level1/문자열다루기기본_DK.java)|연습문제|
 |Lv.1|[행렬의 덧셈](https://programmers.co.kr/learn/courses/30/lessons/12950) | [C++_hi](./Level1/행렬의덧셈_hi.cpp),[C++_sh](./Level1/행렬의덧셈_sh.cpp)|연습문제|
-|Lv.1|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [C_jh](./Level1/소수만들기_jh.c), [C++_hi](./Level1/소수만들기_hi.cpp), [C#_mj](./Level1/소수만들기_mj.cs)|Summer/Winter Codeing(~2018)|
+|Lv.1|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977) | [C_jh](./Level1/소수만들기_jh.c), [C++_hi](./Level1/소수만들기_hi.cpp), [C#_mj](./Level1/소수만들기_mj.cs),[java_dk](./Level1/소수만들기_dk.java)|Summer/Winter Codeing(~2018)|
 |Lv.1|[신고 결과 받기](https://programmers.co.kr/learn/courses/30/lessons/92334) | [C++_hi](./Level1/신고결과받기_hi.cpp), [C#_mj](./Level1/신고결과받기_mj.cs),[java_dk](./Level1/신고결과받기_dk.java)|2022 KAKAO BLIND RECRUITMENT|
 |Lv.1|[로또의 최고 순위와 최저 순위](https://programmers.co.kr/learn/courses/30/lessons/77484) | [C_jh](./Level1/로또의최고순위와최저순위_jh.c), [C++_hi](./Level1/로또의최고순위와최저순위_hi.cpp), [C#_mj](./Level1/로또의최고순위와최저순위_mj.cs)|2021 Dev-Matching|
 |Lv.1|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922) | [C++_sh](./Level1/수박수박수박수_sh.cpp)|연습문제|
@@ -91,5 +91,5 @@ Programmers
 
 | 이도경 |
 |--- |
-|Lv.1 (1/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_DK.java),[신고 결과 받기](./Level1/신고결과받기_dk.java)|
+|Lv.1 (3/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_DK.java),[신고 결과 받기](./Level1/신고결과받기_dk.java),[소수만들기](./Level1/소수만들기_dk.java)|
