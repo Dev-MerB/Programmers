@@ -31,7 +31,7 @@ Programmers
 |Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
 |Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|크레인 인형뽑기 게임|
 |Lv.1|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [C++_sh](./Level1/제일작은수제거하기_sh.cpp)|연습문제|
-|Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp), [C#_mj](./Level1/음양더하기_mj.cpp)|월간 코드 챌린지 시즌2|
+|Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp), [C#_mj](./Level1/음양더하기_mj.cs)|월간 코드 챌린지 시즌2|
 |Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [C++_hi](./Level1/내적_hi.cpp), [C#_mj](./Level1/내적_mj.cs)|월간 코드 챌린지 시즌1|
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp)|해시|
 |Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
@@ -40,7 +40,7 @@ Programmers
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
-|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C#_mj](./Level1/K번째수_mj.cpp)|연습문제|
+|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
 
 </div>
 </details>
