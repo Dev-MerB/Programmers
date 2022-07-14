@@ -41,10 +41,10 @@ Programmers
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
 |Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
-|Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp)|완전탐색|
+|Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp), [C#_mj](./Level1/모의고사_mj.cs)|완전탐색|
 |Lv.1|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [C++_hi](./Level1/실패율_hi.cpp)|2019 KAKAO BLIND RECRUITMENT|
 |Lv.1|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [C++_hi](./Level1/체육복_hi.cpp)|탐욕법(Greedy)|
-|Lv.1|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [C++_hi](./Level1/약수의개수와덧셈_hi.cpp)|월간 코드 챌린지 시즌2|
+|Lv.1|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [C++_hi](./Level1/약수의개수와덧셈_hi.cpp), [C#_mj](./Level1/약수의개수와덧셈_mj.cpp)|월간 코드 챌린지 시즌2|
 |Lv.1|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [C++_hi](./Level1/폰켓몬_hi.cpp)|해시|
 |Lv.1|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [C++_sh](./Level1/문자열내마음대로정렬하기_sh.cpp)|연습문제|
 
@@ -84,8 +84,8 @@ Programmers
 
 | 송명지 |
 |--- |
-|Lv.1 (10/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs),  [음양 더하기](./Level1/음양더하기_mj.cs),  [K번째수](./Level1/K번째수_mj.cs)|
+|Lv.1 (12/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs)|
 |Lv.2|
 |[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
 
