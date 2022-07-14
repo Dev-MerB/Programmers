@@ -29,7 +29,7 @@ Programmers
 |Lv.1|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [C++_sh](./Level1/콜라츠추측_sh.cpp)|연습문제|
 |Lv.1|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944) | [C++_sh](./Level1/평균구하기_sh.cpp)|연습문제|
 |Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
-|Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|크레인 인형뽑기 게임|
+|Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|2019 카카오 개발자 겨울 인턴십|
 |Lv.1|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [C++_sh](./Level1/제일작은수제거하기_sh.cpp)|연습문제|
 |Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp), [C#_mj](./Level1/음양더하기_mj.cs)|월간 코드 챌린지 시즌2|
 |Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [C++_hi](./Level1/내적_hi.cpp), [C#_mj](./Level1/내적_mj.cs)|월간 코드 챌린지 시즌1|
@@ -40,7 +40,10 @@ Programmers
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
-|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
+|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
+|Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp)|완전탐색|
+|Lv.1|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [C++_hi](./Level1/실패율_hi.cpp)|2019 KAKAO BLIND RECRUITMENT|
+|Lv.1|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [C++_hi](./Level1/체육복_hi.cpp)|탐욕법(Greedy)|
 
 </div>
 </details>
@@ -87,8 +90,8 @@ Programmers
 
 | 안하일 |
 |--- |
-|Lv.1 (13/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp). [음양 더하기](./Level1/음양더하기_hi.cpp), [내적](./Level1/내적_hi.cpp), [소수 만들기](./Level1/소수만들기_hi.cpp), [완주하지 못한 선수](./Level1/완주하지못한선수_hi.cpp)|
+|Lv.1 (17/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp). [음양 더하기](./Level1/음양더하기_hi.cpp), [내적](./Level1/내적_hi.cpp), [소수 만들기](./Level1/소수만들기_hi.cpp), [완주하지 못한 선수](./Level1/완주하지못한선수_hi.cpp). [K번째수](./Level1/K번째수_hi.cpp), [모의고사](./Level1/모의고사_hi.cpp), [실패율](./Level1/실패율_hi.cpp), [체육복](./Level1/체육복_hi.cpp)|
 
 <br>
 
