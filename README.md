@@ -20,7 +20,7 @@ Programmers
 |Lv.1|[키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256) | [C++_hi](./Level1/키패드누르기_hi.cpp),[java_dk](./Level1/키패드누르기_dk.java)|2020 카카오 인턴십|
 |Lv.1|[서울에서 김서방 찾기](https://programmers.co.kr/learn/courses/30/lessons/12919) | [C++_sh](./Level1/서울에서김서방찾기_sh.cpp), [Py_jh](./Level1/서울에서김서방찾기_jh.py)|연습문제|
 |Lv.1|[없는 숫자 더하기](https://programmers.co.kr/learn/courses/30/lessons/86051) | [C++_hi](./Level1/없는숫자더하기_hi.cpp), [C++_sh](./Level1/없는숫자더하기_sh.cpp), [Py_jh](./Level1/없는숫자더하기_jh.py), [C#_mj](./Level1/없는숫자더하기_mj.cs)|월간 코드 챌린지 시즌3|
-|Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp), [Py_jh](./Level1/핸드폰번호가리기_jh.py)|연습문제|
+|Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp), [Py_jh](./Level1/핸드폰번호가리기_jh.py),[java_dk](./Level1/핸드폰번호가리기_dk.java)|연습문제|
 |Lv.1|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [C++_sh](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [Py_jh](./Level1/x만큼간격이있는n개의숫자_jh.py)|연습문제|
 |Lv.1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [C++_sh](./Level1/직사각형별찍기_sh.cpp), [Py_jh](./Level1/직사각형별찍기_jh.py)|연습문제|
 |Lv.1|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [C++_sh](./Level1/2016년_sh.cpp)|연습문제|
@@ -31,7 +31,7 @@ Programmers
 |Lv.1|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940) | [C++_sh](./Level1/최대공약수와최소공배수_sh.cpp)|연습문제|
 |Lv.1|[크레인 인형뽑기 게임](https://school.programmers.co.kr/learn/courses/30/lessons/64061) | [C++_hi](./Level1/크레인인형뽑기게임_hi.cpp)|2019 카카오 개발자 겨울 인턴십|
 |Lv.1|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935) | [C++_sh](./Level1/제일작은수제거하기_sh.cpp)|연습문제|
-|Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp), [C#_mj](./Level1/음양더하기_mj.cs)|월간 코드 챌린지 시즌2|
+|Lv.1|[음양 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/76501) | [C++_hi](./Level1/음양더하기_hi.cpp), [C#_mj](./Level1/음양더하기_mj.cs),[java_dk](./Level1/음양더하기_dk.java)|월간 코드 챌린지 시즌2|
 |Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [C++_hi](./Level1/내적_hi.cpp), [C#_mj](./Level1/내적_mj.cs)|월간 코드 챌린지 시즌1|
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp),[java_dk](./Level1/완주하지못한선수_dk.java)|해시|
 |Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
@@ -101,5 +101,5 @@ Programmers
 
 | 이도경 |
 |--- |
-|Lv.1 (7/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_DK.java),[신고 결과 받기](./Level1/신고결과받기_dk.java),[소수만들기](./Level1/소수만들기_dk.java),[로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_dk.java), [키패드 누르기](./Level1/키패드누르기_dk.java),[행렬의 덧셈](./Level1/행렬의덧셈_dk.java),[완주하지 못한 선수](./Level1/완주하지못한선수_dk.java)|
+|Lv.1 (9/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_DK.java),[신고 결과 받기](./Level1/신고결과받기_dk.java),[소수만들기](./Level1/소수만들기_dk.java),[로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_dk.java), [키패드 누르기](./Level1/키패드누르기_dk.java),[행렬의 덧셈](./Level1/행렬의덧셈_dk.java),[완주하지 못한 선수](./Level1/완주하지못한선수_dk.java), [음양 더하기](./Level1/음양더하기_dk.java),[핸드폰 번호 가리기](./Level1/핸드폰번호가리기_dk.java)|
