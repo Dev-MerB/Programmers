@@ -47,6 +47,7 @@ Programmers
 |Lv.1|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [C++_hi](./Level1/약수의개수와덧셈_hi.cpp), [C#_mj](./Level1/약수의개수와덧셈_mj.cpp)|월간 코드 챌린지 시즌2|
 |Lv.1|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [C++_hi](./Level1/폰켓몬_hi.cpp)|해시|
 |Lv.1|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [C++_sh](./Level1/문자열내마음대로정렬하기_sh.cpp)|연습문제|
+|Lv.1|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [C++_sh](./Level1/비밀지도_sh.cpp)|2018 KAKAO BLIND RECRUITMENT|
 
 </div>
 </details>
@@ -70,8 +71,8 @@ Programmers
 
 | 김수현 |
 |--- |
-|Lv.1 (23/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_sh.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_sh.cpp), [수박수박수박수박수박수?](./Level1/수박수박수박수박수박수?_sh.cpp), [신규 아이디 추천](./Level1/신규아이디추천_sh.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_sh.cpp), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_sh.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_sh.cpp), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_sh.cpp), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [직사각형 별찍기](./Level1/직사각형별찍기_sh.cpp), [2016년](./Level1/2016년_sh.cpp), [짝수와 홀수](./Level1/짝수와홀수_sh.cpp), [하샤드 수](./Level1/하샤드수_sh.cpp), [콜라츠 추측](./Level1/콜라츠추측_sh.cpp), [평균 구하기](./Level1/평균구하기_sh.cpp), [최대공약수와 최소공배수](./Level1/최대공약수와최소공배수_sh.cpp), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_sh.cpp), [자릿수 더하기](./Level1/자릿수더하기_sh.cpp), [이상한 문자 만들기](./Level1/이상한문자만들기_sh.cpp), [문자열을 정수로 바꾸기](./Level1/문자열을정수로바꾸기_sh.cpp), [두 정수 사이의 합](./Level1/두정수사이의합_sh.cpp), [시저 암호](./Level1/시저암호_sh.cpp), [문자열 내 마음대로 정렬하기](./Level1/문자열내마음대로정렬하기_sh.cpp)|
+|Lv.1 (24/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_sh.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_sh.cpp), [수박수박수박수박수박수?](./Level1/수박수박수박수박수박수?_sh.cpp), [신규 아이디 추천](./Level1/신규아이디추천_sh.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_sh.cpp), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_sh.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_sh.cpp), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_sh.cpp), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [직사각형 별찍기](./Level1/직사각형별찍기_sh.cpp), [2016년](./Level1/2016년_sh.cpp), [짝수와 홀수](./Level1/짝수와홀수_sh.cpp), [하샤드 수](./Level1/하샤드수_sh.cpp), [콜라츠 추측](./Level1/콜라츠추측_sh.cpp), [평균 구하기](./Level1/평균구하기_sh.cpp), [최대공약수와 최소공배수](./Level1/최대공약수와최소공배수_sh.cpp), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_sh.cpp), [자릿수 더하기](./Level1/자릿수더하기_sh.cpp), [이상한 문자 만들기](./Level1/이상한문자만들기_sh.cpp), [문자열을 정수로 바꾸기](./Level1/문자열을정수로바꾸기_sh.cpp), [두 정수 사이의 합](./Level1/두정수사이의합_sh.cpp), [시저 암호](./Level1/시저암호_sh.cpp), [문자열 내 마음대로 정렬하기](./Level1/문자열내마음대로정렬하기_sh.cpp), [비밀지도](./Level1/비밀지도_sh.cpp)|
 
 <br>
 
