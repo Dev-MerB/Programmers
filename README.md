@@ -40,11 +40,11 @@ Programmers
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
-|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [java_dk](./Level1/K번째수_dk.java),[C#_mj](./Level1/K번째수_mj.cs)|연습문제|
+|Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [java_dk](./Level1/K번째수_dk.java), [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
 |Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp), [C#_mj](./Level1/모의고사_mj.cs)|완전탐색|
 |Lv.1|[실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889) | [C++_hi](./Level1/실패율_hi.cpp)|2019 KAKAO BLIND RECRUITMENT|
 |Lv.1|[체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862) | [C++_hi](./Level1/체육복_hi.cpp),[java_dk](./Level1/체육복_dk.java)|탐욕법(Greedy)|
-|Lv.1|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [C++_hi](./Level1/약수의개수와덧셈_hi.cpp), [C#_mj](./Level1/약수의개수와덧셈_mj.cpp),[java_dk](./Level1/약수의개수와덧셈_dk.java)|월간 코드 챌린지 시즌2|
+|Lv.1|[약수의 개수와 덧셈](https://school.programmers.co.kr/learn/courses/30/lessons/77884) | [C++_hi](./Level1/약수의개수와덧셈_hi.cpp), [C#_mj](./Level1/약수의개수와덧셈_mj.cs), [java_dk](./Level1/약수의개수와덧셈_dk.java)|월간 코드 챌린지 시즌2|
 |Lv.1|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [C++_hi](./Level1/폰켓몬_hi.cpp)|해시|
 |Lv.1|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [C++_sh](./Level1/문자열내마음대로정렬하기_sh.cpp)|연습문제|
 |Lv.1|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [C++_sh](./Level1/비밀지도_sh.cpp)|2018 KAKAO BLIND RECRUITMENT|
