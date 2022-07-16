@@ -23,7 +23,7 @@ Programmers
 |Lv.1|[핸드폰 번호 가리기](https://programmers.co.kr/learn/courses/30/lessons/12948) | [C++_sh](./Level1/핸드폰번호가리기_sh.cpp), [Py_jh](./Level1/핸드폰번호가리기_jh.py),[java_dk](./Level1/핸드폰번호가리기_dk.java)|연습문제|
 |Lv.1|[x만큼 간격이 있는 n개의 숫자](https://programmers.co.kr/learn/courses/30/lessons/12954) | [C++_sh](./Level1/x만큼간격이있는n개의숫자_sh.cpp), [Py_jh](./Level1/x만큼간격이있는n개의숫자_jh.py)|연습문제|
 |Lv.1|[직사각형 별찍기](https://programmers.co.kr/learn/courses/30/lessons/12969) | [C++_sh](./Level1/직사각형별찍기_sh.cpp), [Py_jh](./Level1/직사각형별찍기_jh.py)|연습문제|
-|Lv.1|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [C++_sh](./Level1/2016년_sh.cpp)|연습문제|
+|Lv.1|[2016년](https://programmers.co.kr/learn/courses/30/lessons/12901) | [C++_sh](./Level1/2016년_sh.cpp), [C#_mj](./Level1/2016년_mj.cpp)|연습문제|
 |Lv.1|[짝수와 홀수](https://programmers.co.kr/learn/courses/30/lessons/12937) | [C_jh](./Level1/짝수와홀수_jh.c), [C++_sh](./Level1/짝수와홀수_sh.cpp)|연습문제|
 |Lv.1|[하샤드 수](https://programmers.co.kr/learn/courses/30/lessons/12947) | [C_jh](./Level1/하샤드수_jh.c), [C++_sh](./Level1/하샤드수_sh.cpp)|연습문제|
 |Lv.1|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943) | [C_jh](./Level1/콜라츠추측_jh.c), [C++_sh](./Level1/콜라츠추측_sh.cpp)|연습문제|
@@ -49,6 +49,7 @@ Programmers
 |Lv.1|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [C++_sh](./Level1/문자열내마음대로정렬하기_sh.cpp)|연습문제|
 |Lv.1|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [C++_sh](./Level1/비밀지도_sh.cpp)|2018 KAKAO BLIND RECRUITMENT|
 |Lv.1|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [java_dk](./Level1/나누어떨어지는숫자배열_dk.java)|연습문제|
+|Lv.1|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [C#_mj](./Level1/나머지가1이되는수찾기_mj.cs)|월간 코드 챌린지 시즌3|
 
 </div>
 </details>
@@ -63,6 +64,7 @@ Programmers
 |Lv.2|[피보나치 수](https://programmers.co.kr/learn/courses/30/lessons/12945) | [C#_mj](./Level2/피보나치수_mj.cs)|연습문제|
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
 |Lv.2|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [C#_mj](./Level2/주식가격_mj.cs)|스택/큐|
+|Lv.2|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [C#_mj](./Level2/이진변환반복하기_mj.cs)|월간 코드 챌린지 시즌1|
 
 </div>
 </details>
@@ -86,10 +88,10 @@ Programmers
 
 | 송명지 |
 |--- |
-|Lv.1 (12/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs)|
+|Lv.1 (14/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [이진 변환 반복하기](./Level1/이진변환반복하기_mj.cs)|
 |Lv.2|
-|[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs)|
+|[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs)|
 
 <br>
 
