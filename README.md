@@ -52,6 +52,7 @@ Programmers
 |Lv.1|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [C#_mj](./Level1/나머지가1이되는수찾기_mj.cs)|월간 코드 챌린지 시즌3|
 |Lv.1|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [C#_mj](./Level1/3진법뒤집기_mj.cs)|월간 코드 챌린지 시즌1|
 |Lv.1|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [C#_mj](./Level1/예산_mj.cs)|Summer/Winter Coding(~2018)|
+|Lv.1|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [C_mj](./Level1/부족한금액계산하기_mj.c)|위클리 챌린지|
 
 </div>
 </details>
@@ -67,6 +68,7 @@ Programmers
 |Lv.2|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165) | [C#_mj](./Level2/타겟넘버_mj.cs)|깊이/너비 우선 탐색(DFS/BFS)|
 |Lv.2|[주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | [C#_mj](./Level2/주식가격_mj.cs)|스택/큐|
 |Lv.2|[이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129) | [C#_mj](./Level2/이진변환반복하기_mj.cs)|월간 코드 챌린지 시즌1|
+|Lv.2|[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936) | [C#_mj](./Level2/쿼드압축후개수세기_mj.cs)|월간 코드 챌린지 시즌1|
 
 </div>
 </details>
@@ -90,10 +92,10 @@ Programmers
 
 | 송명지 |
 |--- |
-|Lv.1 (16/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [나머지가 1이 되는 수 찾기](./Level1/나머지가1이되는수찾기_mj.cs), [3진법 뒤집기](./Level1/3진법뒤집기_mj.cs), [예산](./Level1/예산_mj.cs)|
+|Lv.1 (17/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [나머지가 1이 되는 수 찾기](./Level1/나머지가1이되는수찾기_mj.cs), [3진법 뒤집기](./Level1/3진법뒤집기_mj.cs), [예산](./Level1/예산_mj.cs), [부족한 금액 계산하기](./Level1/부족한금액계산하기_mj.c)|
 |Lv.2|
-|[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs)|
+|[피보나치 수](./Level2/피보나치수_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs), [쿼드압축 후 개수 세기](./Level2/쿼드압축후개수세기_mj.cs)|
 
 <br>
 

@@ -3,17 +3,13 @@ using System.Linq;
 
 public class Solution
 {
-
     int[,] temp;
     int[] answer = new int[] { 0, 0 };
 
     public int[] solution(int[,] arr)
     {
-
         temp = arr;
-
         int len = arr.GetLength(0);
-
         DFS(0, 0, len);
 
         return answer;
@@ -23,7 +19,6 @@ public class Solution
     {
         bool check_zero = true;
         bool check_one = true;
-
         for (int i = x; i < x + len; i++)
         {
             for (int j = y; j < y + len; j++)
