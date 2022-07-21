@@ -1,20 +1,16 @@
-﻿public class Solution
+﻿using System;
+
+public class Solution
 {
-    public long solution(int n)
+    public int solution(int[] A, int[] B)
     {
-        long answer = 0;
-        int[] temp = new int[n];
-
-        if (n == 1)
-            answer = 1;
-        else
+        int answer = 0;
+        Array.Sort(A);
+        Array.Sort(B);
+        Array.Reverse(B);
+        for (int i = 0; i < A.Length; i++)
         {
-            temp[0] = 1;
-            temp[1] = 2;
-
-            for (int i = 2; i < n; i++)
-                temp[i] = (temp[i - 1] % 1234567 + temp[i - 2] % 1234567) % 1234567;
-            answer = temp[n - 1];
+            answer += (A[i] * B[i]);
         }
         return answer;
     }
