@@ -38,7 +38,7 @@ Programmers
 |Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C#_mj](./Level1/두개뽑아서더하기_mj.cs), [Py_jh](./Level1/두개뽑아서더하기_jh.py)|연습문제|
 |Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C++_sh](./Level1/이상한문자만들기_sh.cpp)|연습문제|
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
-|Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp)|연습문제|
+|Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp), [C#_mj](./Level1/두정수사이의합_mj.cs)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
 |Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [java_dk](./Level1/K번째수_dk.java), [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
 |Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp), [C#_mj](./Level1/모의고사_mj.cs)|완전탐색|
@@ -48,7 +48,7 @@ Programmers
 |Lv.1|[폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) | [C++_hi](./Level1/폰켓몬_hi.cpp)|해시|
 |Lv.1|[문자열 내 마음대로 정렬하기](https://school.programmers.co.kr/learn/courses/30/lessons/12915) | [C++_sh](./Level1/문자열내마음대로정렬하기_sh.cpp)|연습문제|
 |Lv.1|[비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681) | [C++_sh](./Level1/비밀지도_sh.cpp)|2018 KAKAO BLIND RECRUITMENT|
-|Lv.1|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [java_dk](./Level1/나누어떨어지는숫자배열_dk.java)|연습문제|
+|Lv.1|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [java_dk](./Level1/나누어떨어지는숫자배열_dk.java), [C#_mj](./Level1/나누어떨어지는숫자배열_mj.cs)|연습문제|
 |Lv.1|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [C#_mj](./Level1/나머지가1이되는수찾기_mj.cs)|월간 코드 챌린지 시즌3|
 |Lv.1|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [C++_hi](./Level1/3진법뒤집기_hi.cpp), [C#_mj](./Level1/3진법뒤집기_mj.cs)|월간 코드 챌린지 시즌1|
 |Lv.1|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [C#_mj](./Level1/예산_mj.cs)|Summer/Winter Coding(~2018)|
@@ -98,8 +98,8 @@ Programmers
 
 | 송명지 |
 |--- |
-|Lv.1 (19/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [나머지가 1이 되는 수 찾기](./Level1/나머지가1이되는수찾기_mj.cs), [3진법 뒤집기](./Level1/3진법뒤집기_mj.cs), [예산](./Level1/예산_mj.cs), [부족한 금액 계산하기](./Level1/부족한금액계산하기_mj.c), [최소직사각형](./Level1/최소직사각형_mj.cs), [가운데 글자 가져오기](./Level1/가운데글자가져오기_mj.cs)|
+|Lv.1 (21/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [나머지가 1이 되는 수 찾기](./Level1/나머지가1이되는수찾기_mj.cs), [3진법 뒤집기](./Level1/3진법뒤집기_mj.cs), [예산](./Level1/예산_mj.cs), [부족한 금액 계산하기](./Level1/부족한금액계산하기_mj.c), [최소직사각형](./Level1/최소직사각형_mj.cs), [가운데 글자 가져오기](./Level1/가운데글자가져오기_mj.cs), [두 정수 사이의 합](./Level1/두정수사이의합_mj.cs), [나누어 떨어지는 숫자 배열](./Level1/나누어떨어지는숫자배열_mj.cs)|
 |Lv.2|
 |[멀리 뛰기](./Level2/멀리뛰기_mj.cs), [스킬트리](./Level2/스킬트리_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [쿼드압축 후 개수 세기](./Level2/쿼드압축후개수세기_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [피보나치 수](./Level2/피보나치수_mj.cs), [최솟값 만들기](./Level2/최솟값만들기_mj.cs)|
 
