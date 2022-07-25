@@ -36,9 +36,9 @@ Programmers
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp),[java_dk](./Level1/완주하지못한선수_dk.java)|해시|
 |Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
 |Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C#_mj](./Level1/두개뽑아서더하기_mj.cs), [Py_jh](./Level1/두개뽑아서더하기_jh.py)|연습문제|
-|Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C++_sh](./Level1/이상한문자만들기_sh.cpp)|연습문제|
+|Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C_jh](./Level1/이상한문자만들기_jh.c), [C++_sh](./Level1/이상한문자만들기_sh.cpp)|연습문제|
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
-|Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C++_sh](./Level1/두정수사이의합_sh.cpp), [C#_mj](./Level1/두정수사이의합_mj.cs)|연습문제|
+|Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C_jh](./Level1/두정수사이의합_jh.c), [C++_sh](./Level1/두정수사이의합_sh.cpp), [C#_mj](./Level1/두정수사이의합_mj.cs)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
 |Lv.1|[K번째수](https://school.programmers.co.kr/learn/courses/30/lessons/42748) | [C++_hi](./Level1/K번째수_hi.cpp), [java_dk](./Level1/K번째수_dk.java), [C#_mj](./Level1/K번째수_mj.cs)|연습문제|
 |Lv.1|[모의고사](https://school.programmers.co.kr/learn/courses/30/lessons/42840) | [C++_hi](./Level1/모의고사_hi.cpp), [C#_mj](./Level1/모의고사_mj.cs)|완전탐색|
@@ -91,8 +91,8 @@ Programmers
 
 | 박주혁 |
 |--- |
-|Lv.1 (16/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_jh.cpp), [소수만들기](./Level1/소수만들기_jh.c), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_jh.c), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_jh.c), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_jh.py), [없는 숫자 더하기](./Level1/없는숫자더하기_jh.py), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_jh.py), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_jh.py), [직사각형 별찍기](./Level1/직사각형별찍기_jh.py), [짝수와 홀수](./Level1/짝수와홀수_jh.c), [하샤드 수](./Level1/하샤드수_jh.c), [콜라츠 추측](./Level1/콜라츠추측_jh.c), [평균 구하기](./Level1/평균구하기_jh.c), [최대공약수와 최소공배수](./Level1/최대공약수와최소공배수_jh.py), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_jh.py), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_jh.py)|
+|Lv.1 (18/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_jh.cpp), [소수만들기](./Level1/소수만들기_jh.c), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_jh.c), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_jh.c), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_jh.py), [없는 숫자 더하기](./Level1/없는숫자더하기_jh.py), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_jh.py), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_jh.py), [직사각형 별찍기](./Level1/직사각형별찍기_jh.py), [짝수와 홀수](./Level1/짝수와홀수_jh.c), [하샤드 수](./Level1/하샤드수_jh.c), [콜라츠 추측](./Level1/콜라츠추측_jh.c), [평균 구하기](./Level1/평균구하기_jh.c), [최대공약수와 최소공배수](./Level1/최대공약수와최소공배수_jh.py), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_jh.py), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_jh.py), [이상한 문자 만들기](./Level1/이상한문자만들기_jh.c), [두 정수 사이의 합](./Level1/두정수사이의합_jh.c)|
 
 <br>
 
