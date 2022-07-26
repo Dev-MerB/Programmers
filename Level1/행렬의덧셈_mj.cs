@@ -1,15 +1,11 @@
 ﻿public class Solution
 {
-    public string solution(int a, int b)
+    public int[,] solution(int[,] arr1, int[,] arr2)
     {
-        string answer = "";
-        int num = 0;
-        int[] month = { 0, 3, 4, 0, 2, 5, 0, 3, 6, 1, 4, 6 };
-        string[] day = { "FRI", "SAT", "SUN", "MON", "TUE", "WED", "THU" };
-
-        num = (month[a - 1] + b - 1) % 7;
-        answer = day[num];
-
+        int[,] answer = new int[arr1.GetLength(0), arr1.GetLength(1)];
+        for (int i = 0; i < arr1.GetLength(0); i++)
+            for (int j = 0; j < arr1.GetLength(1); j++)
+                answer[i, j] = arr1[i, j] + arr2[i, j];
         return answer;
     }
 }
