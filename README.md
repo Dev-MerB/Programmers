@@ -35,7 +35,7 @@ Programmers
 |Lv.1|[내적](https://school.programmers.co.kr/learn/courses/30/lessons/70128) | [C++_hi](./Level1/내적_hi.cpp), [C#_mj](./Level1/내적_mj.cs)|월간 코드 챌린지 시즌1|
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp),[java_dk](./Level1/완주하지못한선수_dk.java)|해시|
 |Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C++_sh](./Level1/자릿수더하기_sh.cpp)|연습문제|
-|Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C#_mj](./Level1/두개뽑아서더하기_mj.cs), [Py_jh](./Level1/두개뽑아서더하기_jh.py)|연습문제|
+|Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C++_hi](./Level1/두개뽑아서더하기_hi.cpp), [C#_mj](./Level1/두개뽑아서더하기_mj.cs), [Py_jh](./Level1/두개뽑아서더하기_jh.py)|연습문제|
 |Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C_jh](./Level1/이상한문자만들기_jh.c), [C++_sh](./Level1/이상한문자만들기_sh.cpp)|연습문제|
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp)|연습문제|
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C_jh](./Level1/두정수사이의합_jh.c), [C++_sh](./Level1/두정수사이의합_sh.cpp), [C#_mj](./Level1/두정수사이의합_mj.cs)|연습문제|
@@ -51,7 +51,7 @@ Programmers
 |Lv.1|[나누어 떨어지는 숫자 배열](https://school.programmers.co.kr/learn/courses/30/lessons/12910) | [java_dk](./Level1/나누어떨어지는숫자배열_dk.java), [C#_mj](./Level1/나누어떨어지는숫자배열_mj.cs)|연습문제|
 |Lv.1|[나머지가 1이 되는 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/87389) | [C#_mj](./Level1/나머지가1이되는수찾기_mj.cs)|월간 코드 챌린지 시즌3|
 |Lv.1|[3진법 뒤집기](https://school.programmers.co.kr/learn/courses/30/lessons/68935) | [C++_hi](./Level1/3진법뒤집기_hi.cpp), [C#_mj](./Level1/3진법뒤집기_mj.cs)|월간 코드 챌린지 시즌1|
-|Lv.1|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [C#_mj](./Level1/예산_mj.cs)|Summer/Winter Coding(~2018)|
+|Lv.1|[예산](https://school.programmers.co.kr/learn/courses/30/lessons/12982) | [C++_hi](./Level1/예산_hi.cpp), [C#_mj](./Level1/예산_mj.cs)|Summer/Winter Coding(~2018)|
 |Lv.1|[부족한 금액 계산하기](https://school.programmers.co.kr/learn/courses/30/lessons/82612) | [C_mj](./Level1/부족한금액계산하기_mj.c)|위클리 챌린지|
 |Lv.1|[문자열내 p와 y의개수](https://school.programmers.co.kr/learn/courses/30/lessons/12916) | [C++_sh](문자열내p와y의개수_sh.cpp)|연습문제|
 |Lv.1|[최소직사각형](https://school.programmers.co.kr/learn/courses/30/lessons/86491) | [C#_mj](./Level1/최소직사각형_mj.cs)|완전탐색|
@@ -109,8 +109,8 @@ Programmers
 
 | 안하일 |
 |--- |
-|Lv.1 (20/65)|
-|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp). [음양 더하기](./Level1/음양더하기_hi.cpp), [내적](./Level1/내적_hi.cpp), [소수 만들기](./Level1/소수만들기_hi.cpp), [완주하지 못한 선수](./Level1/완주하지못한선수_hi.cpp). [K번째수](./Level1/K번째수_hi.cpp), [모의고사](./Level1/모의고사_hi.cpp), [실패율](./Level1/실패율_hi.cpp), [체육복](./Level1/체육복_hi.cpp), [폰켓몬](./Level1/폰켓몬_hi.cpp), [약수의개수와덧셈](./Level1/약수의개수와덧셈_hi.cpp),  [3진법 뒤집기](./Level1/3진법뒤집기_hi.cpp)|
+|Lv.1 (22/65)|
+|[문자열 다루기 기본](./Level1/문자열다루기기본_hi.cpp), [행렬의 덧셈](./Level1/행렬의덧셈_hi.cpp), [신고 결과 받기](./Level1/신고결과받기_hi.cpp), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_hi.cpp), [신규 아이디 추천](./Level1/신규아이디추천_hi.cpp), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_hi.cpp), [키패드 누르기](./Level1/키패드누르기_hi.cpp), [없는 숫자 더하기](./Level1/없는숫자더하기_hi.cpp), [크레인 인형뽑기 게임](./Level1/크레인인형뽑기게임_hi.cpp). [음양 더하기](./Level1/음양더하기_hi.cpp), [내적](./Level1/내적_hi.cpp), [소수 만들기](./Level1/소수만들기_hi.cpp), [완주하지 못한 선수](./Level1/완주하지못한선수_hi.cpp). [K번째수](./Level1/K번째수_hi.cpp), [모의고사](./Level1/모의고사_hi.cpp), [실패율](./Level1/실패율_hi.cpp), [체육복](./Level1/체육복_hi.cpp), [폰켓몬](./Level1/폰켓몬_hi.cpp), [약수의개수와덧셈](./Level1/약수의개수와덧셈_hi.cpp),  [3진법 뒤집기](./Level1/3진법뒤집기_hi.cpp), [예산](./Level1/예산_hi.cpp), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_hi.cpp),|
 
 <br>
 
