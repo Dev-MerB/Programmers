@@ -36,7 +36,7 @@ Programmers
 |Lv.1|[완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) | [C++_hi](./Level1/완주하지못한선수_hi.cpp),[java_dk](./Level1/완주하지못한선수_dk.java)|해시|
 |Lv.1|[자릿수 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/68644) | [C++_sh](./Level1/자릿수더하기_sh.cpp), [C#_mj](./Level1/자릿수더하기_mj.cs)|연습문제|
 |Lv.1|[두 개 뽑아서 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/12931) | [C++_hi](./Level1/두개뽑아서더하기_hi.cpp), [C#_mj](./Level1/두개뽑아서더하기_mj.cs), [Py_jh](./Level1/두개뽑아서더하기_jh.py)|연습문제|
-|Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C_jh](./Level1/이상한문자만들기_jh.c), [C++_sh](./Level1/이상한문자만들기_sh.cpp)|연습문제|
+|Lv.1|[이상한 문자 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12930) | [C_jh](./Level1/이상한문자만들기_jh.c), [C++_sh](./Level1/이상한문자만들기_sh.cpp), [C#_mj](./Level1/이상한문자만들기_mj.cs)|연습문제|
 |Lv.1|[문자열을 정수로 바꾸기](https://school.programmers.co.kr/learn/courses/30/lessons/12925) | [C++_sh](./Level1/문자열을정수로바꾸기_sh.cpp), [C#_mj](./Level1/문자열을정수로바꾸기_mj.cs)|연습문제|
 |Lv.1|[두 정수 사이의 합](https://school.programmers.co.kr/learn/courses/30/lessons/12912) | [C_jh](./Level1/두정수사이의합_jh.c), [C++_sh](./Level1/두정수사이의합_sh.cpp), [C#_mj](./Level1/두정수사이의합_mj.cs)|연습문제|
 |Lv.1|[시저 암호](https://school.programmers.co.kr/learn/courses/30/lessons/12926) | [C++_sh](./Level1/시저암호_sh.cpp)|연습문제|
