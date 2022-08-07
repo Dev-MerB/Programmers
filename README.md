@@ -84,6 +84,7 @@ Programmers
 |Lv.2|[최솟값 만들기](https://programmers.co.kr/learn/courses/30/lessons/12941) | [C#_mj](./Level2/최솟값만들기_mj.cs)|연습문제|
 |Lv.2|[올바른 괄호](https://programmers.co.kr/learn/courses/30/lessons/12909) | [C#_mj](./Level2/올바른괄호_mj.cs)|연습문제|
 |Lv.2|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42883) | [C#_mj](./Level2/카펫_mj.cs)|완전탐색|
+|Lv.2|[프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | [C#_mj](./Level2/프린터_mj.cs)|스택/큐|
 
 </div>
 </details>
@@ -109,8 +110,8 @@ Programmers
 |--- |
 |Lv.1 (43/65)|
 |[문자열 다루기 기본](./Level1/문자열다루기기본_mj.cs), [소수만들기](./Level1/소수만들기_mj.cs), [신고 결과 받기](./Level1/신고결과받기_mj.cs), [두 개 뽑아서 더하기](./Level1/두개뽑아서더하기_mj.cs), [로또의 최고 순위와 최저 순위](./Level1/로또의최고순위와최저순위_mj.cs), [내적](./Level1/내적_mj.cs), [숫자 문자열과 영단어](./Level1/숫자문자열과영단어_mj.cs), [없는 숫자 더하기](./Level1/없는숫자더하기_mj.cs), [음양 더하기](./Level1/음양더하기_mj.cs), [K번째수](./Level1/K번째수_mj.cs), [모의고사](./Level1/모의고사_mj.cs), [약수의 개수와 덧셈](./Level1/약수의개수와덧셈_mj.cs), [2016년](./Level1/2016년_mj.cs), [나머지가 1이 되는 수 찾기](./Level1/나머지가1이되는수찾기_mj.cs), [3진법 뒤집기](./Level1/3진법뒤집기_mj.cs), [예산](./Level1/예산_mj.cs), [부족한 금액 계산하기](./Level1/부족한금액계산하기_mj.c), [최소직사각형](./Level1/최소직사각형_mj.cs), [가운데 글자 가져오기](./Level1/가운데글자가져오기_mj.cs), [두 정수 사이의 합](./Level1/두정수사이의합_mj.cs), [직사각형 별찍기](./Level1/직사각형별찍기_mj.cs), [나누어 떨어지는 숫자 배열](./Level1/나누어떨어지는숫자배열_mj.cs), [x만큼 간격이 있는 n개의 숫자](./Level1/x만큼간격이있는n개의숫자_mj.cs), [행렬의 덧셈](./Level1/행렬의덧셈_mj.cs), [핸드폰 번호 가리기](./Level1/핸드폰번호가리기_mj.cs), [하샤드 수](./Level1/하샤드수_mj.cs), [평균 구하기](./Level1/평균구하기_mj.cs), [콜라츠 추측](./Level1/콜라츠추측_mj.cs), [최대공약수와 최대공배수](./Level1/최대공약수와최소공배수_mj.cs), [짝수와 홀수](./Level1/짝수와홀수_mj.cs), [제일 작은 수 제거하기](./Level1/제일작은수제거하기_mj.cs), [정수 제곱근 판별](./Level1/정수제곱근판별_mj.cs), [자연수 뒤집어 배열로 만들기](./Level1/자연수뒤집어배열로만들기_mj.cs), [자릿수 더하기](./Level1/자릿수더하기_mj.cs), [약수의 합](./Level1/약수의합_mj.cs), [수박수박수박수박수박수?](./Level1/수박수박수박수박수박수_mj.cs), [소수 찾기](./Level1/소수찾기_mj.cs), [문자열을 정수로 바꾸기](./Level1/문자열을정수로바꾸기_mj.cs), [정수 내림차순으로 배치하기](./Level1/정수내림차순으로배치하기_mj.cs), [서울에서 김서방 찾기](./Level1/서울에서김서방찾기_mj.cs), [이상한 문자 만들기](./Level1/이상한문자만들기_mj.cs), [문자열 내림차순으로 배치하기](./Level1/문자열내림차순으로배치하기_mj.cs), [시저 암호](./Level1/시저암호_mj.cs)|
-|Lv.2 (10)|
-|[멀리 뛰기](./Level2/멀리뛰기_mj.cs), [스킬트리](./Level2/스킬트리_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [쿼드압축 후 개수 세기](./Level2/쿼드압축후개수세기_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [피보나치 수](./Level2/피보나치수_mj.cs), [최솟값 만들기](./Level2/최솟값만들기_mj.cs), [올바른 괄호](./Level2/올바른괄호_mj.cs), [카펫](./Level2/카펫_mj.cs)|
+|Lv.2 (11)|
+|[멀리 뛰기](./Level2/멀리뛰기_mj.cs), [스킬트리](./Level2/스킬트리_mj.cs), [이진 변환 반복하기](./Level2/이진변환반복하기_mj.cs), [주식가격](./Level2/주식가격_mj.cs), [쿼드압축 후 개수 세기](./Level2/쿼드압축후개수세기_mj.cs), [타겟 넘버](./Level2/타겟넘버_mj.cs), [피보나치 수](./Level2/피보나치수_mj.cs), [최솟값 만들기](./Level2/최솟값만들기_mj.cs), [올바른 괄호](./Level2/올바른괄호_mj.cs), [카펫](./Level2/카펫_mj.cs), [프린터](./Level2/프린터_mj.cs)|
 
 <br>
 
